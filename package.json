@@ -1,0 +1,35 @@
+{
+  "name": "frontend-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "gulp": "npm gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "prettier": "2.2.1",
+    "run-sequence": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuratDenizli/frontend-exercise.git"
+  },
+  "author": "Murat Denizli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuratDenizli/frontend-exercise/issues"
+  },
+  "homepage": "https://github.com/MuratDenizli/frontend-exercise#readme"
+}
