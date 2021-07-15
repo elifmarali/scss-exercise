@@ -1,0 +1,23 @@
+@import url(https://fonts.google.com/specimen/Mulish?preview.text_type=custom);
+* {
+  padding: 0;
+  margin: 0;
+  list-style: 0;
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+  font-family: 'mulish', sans-serif;
+  &:focus {
+    outline: 0;
+  }
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  background: #e8ecf3;
+  display: grid;
+  place-items: center;
+}
